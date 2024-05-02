@@ -1,5 +1,3 @@
 <?php
-phpinfo();
-
-teste
+teste 2
 ?>
